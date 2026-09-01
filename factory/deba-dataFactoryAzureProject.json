@@ -1,0 +1,15 @@
+{
+	"name": "deba-dataFactoryAzureProject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76a5dddb-a800-4eae-a38a-7a11f0ee49b3",
+		"tenantId": "71a9a7bd-952b-4e77-8902-90d8adb1d3eb"
+	}
+}
