@@ -129,8 +129,6 @@ The final datasets can be consumed by reporting or analytics tools to generate m
 
 The following screenshot shows the Azure Data Factory pipeline created as part of this project.
 
-> **📷 Add your pipeline screenshot here.**
-
 ![Azure Data Factory Pipeline](images/adf-pipeline.png)
 
 *Azure Data Factory pipeline design and workflow orchestration.*
@@ -140,8 +138,6 @@ The following screenshot shows the Azure Data Factory pipeline created as part o
 ## ✅ Successful Pipeline Execution
 
 The screenshot below demonstrates the successful execution of the Azure Data Factory pipeline.
-
-> **📷 Add your successful pipeline execution screenshot here.**
 
 ![Successful Azure Data Factory Pipeline Run](images/adf-pipeline-success.png)
 
