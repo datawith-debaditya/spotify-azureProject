@@ -78,8 +78,6 @@ The project follows a cloud-based data engineering workflow in which data is ing
                   └──────────────────────┘
 ```
 
-> **Note:** Update the source and destination stages to match the exact implementation in your project.
-
 ---
 
 ## 🔄 Data Pipeline Workflow
@@ -158,8 +156,6 @@ The screenshot below demonstrates the successful execution of the Azure Data Fac
 | Delta Lake                   | Reliable data storage and processing      |
 | Unity Catalog                | Data governance and access management     |
 | GitHub                       | Version control and project documentation |
-
-*Include only the services that you actually used in your implementation.*
 
 ---
 
