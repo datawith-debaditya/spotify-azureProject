@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the design and implementation of an end-to-end data engineering pipeline using **Microsoft Azure** and **Azure Databricks**, inspired by a Spotify data engineering tutorial.
+This project demonstrates the design and implementation of an end-to-end data engineering pipeline using **Microsoft Azure** and **Azure Databricks**.
 
 The objective is to build a cloud-based data platform that can ingest, store, process, and transform data into meaningful datasets for analytics and reporting.
 
